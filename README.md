@@ -13,6 +13,7 @@ Pre Starting Recording
 - [ ] Setup Web Instance (Wordpress)
 - [ ] Podcast URL Thingy
 - [ ] iTunes link
+- [ ] YouTube/Google+ Account to host the hangouts - (use email with the podcast domain?)
 
 First Podcast
 -------------
