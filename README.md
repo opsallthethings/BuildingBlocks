@@ -18,7 +18,8 @@ Pre Starting Recording
 First Podcast
 -------------
 
-- [ ] Show Outline
-- [ ] Set a time
-- [ ] Decide on a format
+- [x] Show Outline
+- [x] Set a time
+- [x] Decide on a format
 - [ ] Decide on "transport"
+- [ ] Music to mix in later
