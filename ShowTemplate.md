@@ -30,4 +30,4 @@ Main Topic
 
 Closing
 -------
-Thanks for joining us for Ops All The Things.  If you have questions, comments, or other feedback, you can find us at <website> <twitter>.
+Thanks for joining us for Ops All The Things.  If you have questions, comments, or other feedback, you can find us at <http://www.opsallthethings.com> or on twitter as @opsallthethings.
