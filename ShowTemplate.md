@@ -3,7 +3,7 @@ Show Notes - # - mm/dd/yyyy
 
 Introduction
 ------------
-*Chris* Welcome to Ops All The Things, your podcast for all things DevOps and SysAdmin. 
+*Chris* Welcome to Ops All The Things, your podcast for all things DevOps, SysAdmin and Operations. 
 
 *Chris* I'm Chris Webber
 
